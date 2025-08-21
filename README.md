@@ -1,2 +1,2 @@
-# linear-algebra-mm
-This repository contains material for linear algebra.
+# Mathematics Material 
+This repository contains books, PDFs for mathematics.
